@@ -3,7 +3,7 @@
 ''' Escolha um nome simples e direto, com letras minusculas e palavras separadas por hifens.'''
 ![criando um repositorio](images/novo-repositorio.png)
 '''Escolha também uma descrição para o seu projeto. O restante pode deixar como esta por enquanto'''
-![nome e descricao](images/nome-e-descricao.png)
+![nome e descricao](https://github.com/LuaGeo/test-github/blob/master/images/novo-repositorio.png)
 ## 2. Crie uma pasta para o seu projeto com nome idêntico ao do repositorio:
 ''' bash : mkdir nome-da-pasta'''
 ## 3. Abra o VSCode dentro da pasta recém criada:
