@@ -1,14 +1,16 @@
-# **Projeto "test-github"** 
-#(aprendendo a subir projetos)
+# **Projeto "test-github"**   
+  
+  #(aprendendo a subir projetos)
 
 ## 1. Criando um repositorio
 
 - Escolha um nome simples e direto, com letras minusculas e palavras separadas por hifens.
 
 ![criando um repositorio](images/novo-repositorio.png)
-- Escolha também uma descrição para o seu projeto. O restante pode deixar como esta por enquanto.
+  
+  - Escolha também uma descrição para o seu projeto. O restante pode deixar como esta por enquanto.
 
-![nome e descricao](images/novo-repositorio.png)
+![nome e descricao](images/nome-e-descricao.png)
 
 ## 2. Crie uma pasta para o seu projeto com nome idêntico ao do repositorio:
 
