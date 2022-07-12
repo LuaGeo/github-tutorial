@@ -3,10 +3,10 @@
 
 ## 1. Criando um repositorio
 
-- Escolha um nome simples e direto, com letras minusculas e palavras separadas por hifens.
-
 ![criando um repositorio](images/novo-repositorio.png)
-  
+
+  - Escolha um nome simples e direto, com letras minusculas e palavras separadas por hifens.
+
   - Escolha também uma descrição para o seu projeto. O restante pode deixar como esta por enquanto.
 
 ![nome e descricao](images/nome-e-descricao.png)
