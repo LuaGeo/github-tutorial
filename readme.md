@@ -1,4 +1,4 @@
-# **Projeto "test-github"**   
+# **Projeto "github-tutorial"**   
 # (aprendendo a subir projetos)
 
 ## 1. Criando um repositorio
